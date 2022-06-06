@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.photo {
+    width: 300px;
+}
+
+.faten-affash {
+    color: red;
+    font-size: 2rem;
+    border: solid black;
+    width: 50%;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.wassup {
+    color: orange;
+}
+
+.i-put-there-pictures {
+color: rgb(27, 126, 52)
+}
+
+.rules {
+font-size: 50px;
+}
+
+.no-saving {
+font-weight:bold
+}
+
+.dont-open {
+font-weight:bold
+}
+
+.dont-breath-or-die {
+font-weight:bold
+}
+
+.you-have-to-this {
+color:indigo;
+font-weight:bold
+}
+
+.drown-yourself {
+color:indigo;
+font-weight:bold
+}
+
+.slap-your-mom {
+color:indigo;
+font-weight:bold
+}
+
+.get-hacked {
+color:indigo;
+font-weight:bold
+}
