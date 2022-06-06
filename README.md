@@ -1,2 +1,2 @@
-# faten
+# Faten
 My Great amazing website
